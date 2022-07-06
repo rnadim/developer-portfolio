@@ -1,0 +1,35 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+
+}
+
+.frist {
+    color: gold;
+}
+
+section {
+    display: flex;
+    margin-bottom: 250px;
+}
+
+.second {
+    width: 100%;
+    height: 100%;
+    padding-left: 6%;
+    display: block;
+}
+
+.second img {
+    width: 80%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(green, yellow);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
