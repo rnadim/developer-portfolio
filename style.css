@@ -26,8 +26,9 @@ h1 {
 }
 
 .second img {
-    width: 80%;
+    width: 122%;
 }
+
 
 .link-button {
     text-decoration: none;
@@ -64,4 +65,8 @@ h1 {
 
 footer {
     text-align: center;
+}
+
+.king {
+    width: 20%;
 }
