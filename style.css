@@ -8,19 +8,21 @@ h1 {
 }
 
 .frist {
-    color: gold;
+    color: rgb(139, 0, 0);
+
 }
 
-section {
+.box-style {
     display: flex;
     margin-bottom: 250px;
+
 }
 
 .second {
     width: 100%;
     height: 100%;
     padding-left: 6%;
-    display: block;
+
 }
 
 .second img {
@@ -32,4 +34,34 @@ section {
     background-image: linear-gradient(green, yellow);
     padding: 10px 40px;
     border-radius: 5px;
+}
+
+#hello {
+    color: aqua;
+}
+
+#hi {
+    color: blueviolet;
+}
+
+#me {
+    color: blueviolet;
+}
+
+.five {
+    color: rgb(214, 53, 3);
+}
+
+.rtm {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 30px;
+    border-radius: 50px;
+    box-shadow: 20px 20px 100px goldenrod;
+    border: 7px solid darkorange;
+}
+
+footer {
+    text-align: center;
 }
